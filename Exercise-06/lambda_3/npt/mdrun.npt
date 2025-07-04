@@ -1,0 +1,36 @@
+                      :-) GROMACS - gmx mdrun, 2023.4 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /home/scaio/MOL_DYN_SIM/Exercise-06
+Command line:
+  gmx mdrun -deffnm /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.log to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/#npt.log.1#
+Reading file /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.tpr, VERSION 2023.4 (single precision)
+Changing nstlist from 20 to 100, rlist from 1.2 to 1.216
+
+Using 1 MPI thread
+Using 8 OpenMP threads 
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.trr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/#npt.trr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.edr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/#npt.edr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.xvg to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/#npt.xvg.1#
+starting mdrun 'Methane in water'
+5000 steps,     10.0 ps.
+
+Writing final coordinates.
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/npt.gro to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_3/npt/#npt.gro.1#
+
+               Core t (s)   Wall t (s)        (%)
+       Time:       66.924        8.366      800.0
+                 (ns/day)    (hour/ns)
+Performance:      103.300        0.232
+
+GROMACS reminds you: "You are wrong!" (NOFX)
+

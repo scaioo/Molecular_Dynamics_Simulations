@@ -1,0 +1,36 @@
+                      :-) GROMACS - gmx mdrun, 2023.4 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /home/scaio/MOL_DYN_SIM/Exercise-06
+Command line:
+  gmx mdrun -deffnm /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.log to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/#npt.log.1#
+Reading file /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.tpr, VERSION 2023.4 (single precision)
+Changing nstlist from 20 to 100, rlist from 1.2 to 1.216
+
+Using 1 MPI thread
+Using 8 OpenMP threads 
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.trr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/#npt.trr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.edr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/#npt.edr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.xvg to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/#npt.xvg.1#
+starting mdrun 'Methane in water'
+5000 steps,     10.0 ps.
+
+Writing final coordinates.
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/npt.gro to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_17/npt/#npt.gro.1#
+
+               Core t (s)   Wall t (s)        (%)
+       Time:       90.027       11.254      800.0
+                 (ns/day)    (hour/ns)
+Performance:       76.791        0.313
+
+GROMACS reminds you: "When I got my first job as a programmer there were quite a number of women doing programming because there was no computer science education and people were hired from many different fields if it seemed like they could do the work. It was better then, probably, in terms of proportions, not necessarily in women being paid as much as men and so forth, but definitely, there were women around." (Barbara Liskov)
+

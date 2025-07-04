@@ -1,0 +1,36 @@
+                      :-) GROMACS - gmx mdrun, 2023.4 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /home/scaio/MOL_DYN_SIM/Exercise-06
+Command line:
+  gmx mdrun -deffnm /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.log to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/#nvt.log.1#
+Reading file /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.tpr, VERSION 2023.4 (single precision)
+Changing nstlist from 20 to 100, rlist from 1.2 to 1.216
+
+Using 1 MPI thread
+Using 8 OpenMP threads 
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.trr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/#nvt.trr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.edr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/#nvt.edr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.xvg to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/#nvt.xvg.1#
+starting mdrun 'Methane in water'
+5000 steps,     10.0 ps.
+
+Writing final coordinates.
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/nvt.gro to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_7/nvt/#nvt.gro.1#
+
+               Core t (s)   Wall t (s)        (%)
+       Time:       69.256        8.657      800.0
+                 (ns/day)    (hour/ns)
+Performance:       99.822        0.240
+
+GROMACS reminds you: "The greatest shortcoming of the human race is our inability to understand the exponential function." (Albert Bartlett)
+

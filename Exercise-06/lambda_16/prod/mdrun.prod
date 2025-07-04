@@ -1,0 +1,36 @@
+                      :-) GROMACS - gmx mdrun, 2023.4 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /home/scaio/MOL_DYN_SIM/Exercise-06
+Command line:
+  gmx mdrun -deffnm /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.log to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/#prod.log.1#
+Reading file /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.tpr, VERSION 2023.4 (single precision)
+Changing nstlist from 20 to 100, rlist from 1.2 to 1.217
+
+Using 1 MPI thread
+Using 8 OpenMP threads 
+
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.trr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/#prod.trr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.edr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/#prod.edr.1#
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.xvg to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/#prod.xvg.1#
+starting mdrun 'Methane in water'
+250000 steps,    500.0 ps.
+
+Writing final coordinates.
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/prod.gro to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_16/prod/#prod.gro.1#
+
+               Core t (s)   Wall t (s)        (%)
+       Time:     5600.447      700.056      800.0
+                 (ns/day)    (hour/ns)
+Performance:       61.710        0.389
+
+GROMACS reminds you: "Naive you are if you believe life favours those who aren't naive." (Piet Hein)
+

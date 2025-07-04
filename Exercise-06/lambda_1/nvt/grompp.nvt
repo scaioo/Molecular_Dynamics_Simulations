@@ -1,0 +1,61 @@
+                      :-) GROMACS - gmx grompp, 2023.4 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /home/scaio/MOL_DYN_SIM/Exercise-06
+Command line:
+  gmx grompp -f /home/scaio/MOL_DYN_SIM/Exercise-06/MDP/nvt_1.mdp -c /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_1/em/em.gro -p /home/scaio/MOL_DYN_SIM/Exercise-06/topol.top -o /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_1/nvt/nvt.tpr -po /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_1/nvt/mdout.mdp
+
+Ignoring obsolete mdp entry 'ns_type'
+
+NOTE 1 [file /home/scaio/MOL_DYN_SIM/Exercise-06/MDP/nvt_1.mdp]:
+  Setting nstcalcenergy (100) equal to nstdhdl (10)
+
+Generating 1-4 interactions: fudge = 0.5
+Number of degrees of freedom in T-Coupling group System is 3584.00
+
+There was 1 NOTE
+
+Back Off! I just backed up /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_1/nvt/nvt.tpr to /home/scaio/MOL_DYN_SIM/Exercise-06/lambda_1/nvt/#nvt.tpr.2#
+
+GROMACS reminds you: "It's just the way this stuff is done" (Built to Spill)
+
+Setting the LD random seed to -268571669
+
+Generated 331705 of the 331705 non-bonded parameter combinations
+
+Generated 331705 of the 331705 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Methane'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Coupling 1 copies of molecule type 'Methane'
+
+Setting gen_seed to -343951361
+
+Velocities were taken from a Maxwell distribution at 300 K
+Analysing residue names:
+There are:     1      Other residues
+There are:   596      Water residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+The largest distance between non-perturbed excluded atoms is 0.153 nm between atom 952 and 953
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 298 K
+
+Calculated rlist for 1x1 atom pair-list as 1.236 nm, buffer size 0.036 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 25x25x25, spacing 0.119 0.119 0.119
+
+Estimate for the relative computational load of the PME mesh part: 0.33
+
+This run will generate roughly 1 Mb of data
