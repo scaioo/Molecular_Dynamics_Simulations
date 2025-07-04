@@ -1,0 +1,654 @@
+nohup: ignoring input
+           :-) GROMACS - gmx mdrun, 2023.3-Ubuntu_2023.3_1ubuntu3 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/stud/go82zew/Desktop/Exercise-05/A-DNA
+Command line:
+  gmx mdrun -v -deffnm sh8_prod_a-DNA
+
+Invalid MIT-MAGIC-COOKIE-1 key
+Compiled SIMD is SSE4.1, but AVX_256 might be faster (see log).
+Reading file sh8_prod_a-DNA.tpr, VERSION 2023.3-Ubuntu_2023.3_1ubuntu3 (single precision)
+Using 1 MPI thread
+Using 8 OpenMP threads 
+
+starting mdrun 'Protein in water'
+2500000 steps,   5000.0 ps.
+step 0step 100, will finish Tue Jun 10 16:28:05 2025step 200, will finish Tue Jun 10 16:29:24 2025step 300, will finish Tue Jun 10 16:27:09 2025step 400, will finish Tue Jun 10 16:26:03 2025step 500, will finish Tue Jun 10 16:25:18 2025step 600, will finish Tue Jun 10 16:24:51 2025step 700, will finish Tue Jun 10 16:25:36 2025step 800, will finish Tue Jun 10 16:25:11 2025step 900, will finish Tue Jun 10 16:24:52 2025step 1000, will finish Tue Jun 10 16:24:38 2025step 1100, will finish Tue Jun 10 16:24:26 2025step 1200, will finish Tue Jun 10 16:25:00 2025step 1300, will finish Tue Jun 10 16:24:54 2025step 1400, will finish Tue Jun 10 16:24:47 2025step 1500, will finish Tue Jun 10 16:24:42 2025step 1600, will finish Tue Jun 10 16:25:07 2025step 1700, will finish Tue Jun 10 16:25:04 2025step 1800, will finish Tue Jun 10 16:24:58 2025step 1900, will finish Tue Jun 10 16:24:52 2025step 2000, will finish Tue Jun 10 16:24:47 2025step 2100, will finish Tue Jun 10 16:25:06 2025step 2200, will finish Tue Jun 10 16:25:03 2025step 2300, will finish Tue Jun 10 16:25:00 2025step 2400, will finish Tue Jun 10 16:24:56 2025step 2500, will finish Tue Jun 10 16:25:12 2025step 2600, will finish Tue Jun 10 16:25:08 2025step 2700, will finish Tue Jun 10 16:25:04 2025step 2800, will finish Tue Jun 10 16:25:02 2025step 2900, will finish Tue Jun 10 16:24:59 2025step 3000, will finish Tue Jun 10 16:25:10 2025step 3100, will finish Tue Jun 10 16:25:07 2025step 3200, will finish Tue Jun 10 16:25:04 2025step 3300, will finish Tue Jun 10 16:25:01 2025step 3400, will finish Tue Jun 10 16:25:11 2025step 3500, will finish Tue Jun 10 16:25:08 2025step 3600, will finish Tue Jun 10 16:25:05 2025step 3700, will finish Tue Jun 10 16:25:02 2025step 3800, will finish Tue Jun 10 16:24:59 2025step 3900, will finish Tue Jun 10 16:25:09 2025step 4000, will finish Tue Jun 10 16:25:06 2025step 4100, will finish Tue Jun 10 16:25:04 2025step 4200, will finish Tue Jun 10 16:25:01 2025step 4300, will finish Tue Jun 10 16:25:02 2025step 4400, will finish Tue Jun 10 16:25:07 2025step 4500, will finish Tue Jun 10 16:25:03 2025step 4600, will finish Tue Jun 10 16:25:00 2025step 4700, will finish Tue Jun 10 16:24:57 2025step 4800, will finish Tue Jun 10 16:25:04 2025step 4900, will finish Tue Jun 10 16:25:02 2025step 5000, will finish Tue Jun 10 16:25:02 2025step 5100, will finish Tue Jun 10 16:25:01 2025step 5200, will finish Tue Jun 10 16:24:59 2025step 5300, will finish Tue Jun 10 16:25:06 2025step 5400, will finish Tue Jun 10 16:25:04 2025step 5500, will finish Tue Jun 10 16:25:01 2025step 5600, will finish Tue Jun 10 16:24:58 2025step 5700, will finish Tue Jun 10 16:25:04 2025step 5800, will finish Tue Jun 10 16:25:02 2025step 5900, will finish Tue Jun 10 16:25:01 2025step 6000, will finish Tue Jun 10 16:24:59 2025step 6100, will finish Tue Jun 10 16:24:58 2025step 6200, will finish Tue Jun 10 16:25:04 2025step 6300, will finish Tue Jun 10 16:25:02 2025step 6400, will finish Tue Jun 10 16:25:01 2025step 6500, will finish Tue Jun 10 16:25:00 2025step 6600, will finish Tue Jun 10 16:25:06 2025step 6700, will finish Tue Jun 10 16:25:05 2025step 6800, will finish Tue Jun 10 16:25:03 2025step 6900, will finish Tue Jun 10 16:25:01 2025step 7000, will finish Tue Jun 10 16:25:00 2025step 7100, will finish Tue Jun 10 16:25:05 2025step 7200, will finish Tue Jun 10 16:25:03 2025step 7300, will finish Tue Jun 10 16:25:02 2025step 7400, will finish Tue Jun 10 16:25:04 2025step 7500, will finish Tue Jun 10 16:25:09 2025step 7600, will finish Tue Jun 10 16:25:07 2025step 7700, will finish Tue Jun 10 16:25:06 2025step 7800, will finish Tue Jun 10 16:25:06 2025step 7900, will finish Tue Jun 10 16:25:04 2025step 8000, will finish Tue Jun 10 16:25:09 2025step 8100, will finish Tue Jun 10 16:25:08 2025step 8200, will finish Tue Jun 10 16:25:06 2025step 8300, will finish Tue Jun 10 16:25:05 2025step 8400, will finish Tue Jun 10 16:25:09 2025step 8500, will finish Tue Jun 10 16:25:08 2025step 8600, will finish Tue Jun 10 16:25:06 2025step 8700, will finish Tue Jun 10 16:25:05 2025step 8800, will finish Tue Jun 10 16:25:04 2025step 8900, will finish Tue Jun 10 16:25:09 2025step 9000, will finish Tue Jun 10 16:25:08 2025step 9100, will finish Tue Jun 10 16:25:07 2025step 9200, will finish Tue Jun 10 16:25:06 2025step 9300, will finish Tue Jun 10 16:25:05 2025step 9400, will finish Tue Jun 10 16:25:08 2025step 9500, will finish Tue Jun 10 16:25:07 2025step 9600, will finish Tue Jun 10 16:25:07 2025step 9700, will finish Tue Jun 10 16:25:06 2025step 9800, will finish Tue Jun 10 16:25:10 2025step 9900, will finish Tue Jun 10 16:25:09 2025step 10000, will finish Tue Jun 10 16:25:09 2025step 10100, will finish Tue Jun 10 16:25:08 2025step 10200, will finish Tue Jun 10 16:25:07 2025step 10300, will finish Tue Jun 10 16:25:11 2025step 10400, will finish Tue Jun 10 16:25:09 2025step 10500, will finish Tue Jun 10 16:25:08 2025step 10600, will finish Tue Jun 10 16:25:07 2025step 10700, will finish Tue Jun 10 16:25:10 2025step 10800, will finish Tue Jun 10 16:25:09 2025step 10900, will finish Tue Jun 10 16:25:08 2025step 11000, will finish Tue Jun 10 16:25:07 2025step 11100, will finish Tue Jun 10 16:25:06 2025step 11200, will finish Tue Jun 10 16:25:09 2025step 11300, will finish Tue Jun 10 16:25:08 2025step 11400, will finish Tue Jun 10 16:25:07 2025step 11500, will finish Tue Jun 10 16:25:06 2025step 11600, will finish Tue Jun 10 16:25:09 2025step 11700, will finish Tue Jun 10 16:25:08 2025step 11800, will finish Tue Jun 10 16:25:07 2025step 11900, will finish Tue Jun 10 16:25:06 2025step 12000, will finish Tue Jun 10 16:25:05 2025step 12100, will finish Tue Jun 10 16:25:08 2025step 12200, will finish Tue Jun 10 16:25:07 2025step 12300, will finish Tue Jun 10 16:25:07 2025step 12400, will finish Tue Jun 10 16:25:06 2025step 12500, will finish Tue Jun 10 16:25:09 2025step 12600, will finish Tue Jun 10 16:25:08 2025step 12700, will finish Tue Jun 10 16:25:07 2025step 12800, will finish Tue Jun 10 16:25:07 2025step 12900, will finish Tue Jun 10 16:25:06 2025step 13000, will finish Tue Jun 10 16:25:08 2025step 13100, will finish Tue Jun 10 16:25:07 2025step 13200, will finish Tue Jun 10 16:25:06 2025step 13300, will finish Tue Jun 10 16:25:06 2025step 13400, will finish Tue Jun 10 16:25:05 2025step 13500, will finish Tue Jun 10 16:25:07 2025step 13600, will finish Tue Jun 10 16:25:06 2025step 13700, will finish Tue Jun 10 16:25:05 2025step 13800, will finish Tue Jun 10 16:25:05 2025step 13900, will finish Tue Jun 10 16:25:07 2025step 14000, will finish Tue Jun 10 16:25:06 2025step 14100, will finish Tue Jun 10 16:25:06 2025step 14200, will finish Tue Jun 10 16:25:05 2025step 14300, will finish Tue Jun 10 16:25:05 2025step 14400, will finish Tue Jun 10 16:25:07 2025step 14500, will finish Tue Jun 10 16:25:07 2025step 14600, will finish Tue Jun 10 16:25:06 2025step 14700, will finish Tue Jun 10 16:25:06 2025step 14800, will finish Tue Jun 10 16:25:08 2025step 14900, will finish Tue Jun 10 16:25:07 2025step 15000, will finish Tue Jun 10 16:25:07 2025step 15100, will finish Tue Jun 10 16:25:07 2025step 15200, will finish Tue Jun 10 16:25:06 2025step 15300, will finish Tue Jun 10 16:25:09 2025step 15400, will finish Tue Jun 10 16:25:08 2025step 15500, will finish Tue Jun 10 16:25:08 2025step 15600, will finish Tue Jun 10 16:25:07 2025step 15700, will finish Tue Jun 10 16:25:09 2025step 15800, will finish Tue Jun 10 16:25:08 2025step 15900, will finish Tue Jun 10 16:25:07 2025step 16000, will finish Tue Jun 10 16:25:06 2025step 16100, will finish Tue Jun 10 16:25:06 2025step 16200, will finish Tue Jun 10 16:25:08 2025step 16300, will finish Tue Jun 10 16:25:07 2025step 16400, will finish Tue Jun 10 16:25:07 2025step 16500, will finish Tue Jun 10 16:25:06 2025step 16600, will finish Tue Jun 10 16:25:08 2025step 16700, will finish Tue Jun 10 16:25:08 2025step 16800, will finish Tue Jun 10 16:25:08 2025step 16900, will finish Tue Jun 10 16:25:07 2025step 17000, will finish Tue Jun 10 16:25:06 2025step 17100, will finish Tue Jun 10 16:25:08 2025step 17200, will finish Tue Jun 10 16:25:08 2025step 17300, will finish Tue Jun 10 16:25:07 2025step 17400, will finish Tue Jun 10 16:25:06 2025step 17500, will finish Tue Jun 10 16:25:05 2025step 17600, will finish Tue Jun 10 16:25:07 2025step 17700, will finish Tue Jun 10 16:25:07 2025step 17800, will finish Tue Jun 10 16:25:06 2025step 17900, will finish Tue Jun 10 16:25:06 2025step 18000, will finish Tue Jun 10 16:25:08 2025step 18100, will finish Tue Jun 10 16:25:07 2025step 18200, will finish Tue Jun 10 16:25:07 2025step 18300, will finish Tue Jun 10 16:25:06 2025step 18400, will finish Tue Jun 10 16:25:06 2025step 18500, will finish Tue Jun 10 16:25:08 2025step 18600, will finish Tue Jun 10 16:25:07 2025step 18700, will finish Tue Jun 10 16:25:07 2025step 18800, will finish Tue Jun 10 16:25:06 2025step 18900, will finish Tue Jun 10 16:25:08 2025step 19000, will finish Tue Jun 10 16:25:07 2025step 19100, will finish Tue Jun 10 16:25:07 2025step 19200, will finish Tue Jun 10 16:25:06 2025step 19300, will finish Tue Jun 10 16:25:06 2025step 19400, will finish Tue Jun 10 16:25:08 2025step 19500, will finish Tue Jun 10 16:25:08 2025step 19600, will finish Tue Jun 10 16:25:07 2025step 19700, will finish Tue Jun 10 16:25:07 2025step 19800, will finish Tue Jun 10 16:25:09 2025step 19900, will finish Tue Jun 10 16:25:08 2025step 20000, will finish Tue Jun 10 16:25:08 2025step 20100, will finish Tue Jun 10 16:25:08 2025step 20200, will finish Tue Jun 10 16:25:07 2025step 20300, will finish Tue Jun 10 16:25:09 2025step 20400, will finish Tue Jun 10 16:25:09 2025step 20500, will finish Tue Jun 10 16:25:08 2025step 20600, will finish Tue Jun 10 16:25:08 2025step 20700, will finish Tue Jun 10 16:25:10 2025step 20800, will finish Tue Jun 10 16:25:10 2025step 20900, will finish Tue Jun 10 16:25:09 2025step 21000, will finish Tue Jun 10 16:25:09 2025step 21100, will finish Tue Jun 10 16:25:09 2025step 21200, will finish Tue Jun 10 16:25:10 2025step 21300, will finish Tue Jun 10 16:25:10 2025step 21400, will finish Tue Jun 10 16:25:10 2025step 21500, will finish Tue Jun 10 16:25:09 2025step 21600, will finish Tue Jun 10 16:25:09 2025step 21700, will finish Tue Jun 10 16:25:12 2025step 21800, will finish Tue Jun 10 16:25:12 2025step 21900, will finish Tue Jun 10 16:25:12 2025step 22000, will finish Tue Jun 10 16:25:11 2025step 22100, will finish Tue Jun 10 16:25:13 2025step 22200, will finish Tue Jun 10 16:25:13 2025step 22300, will finish Tue Jun 10 16:25:12 2025step 22400, will finish Tue Jun 10 16:25:12 2025step 22500, will finish Tue Jun 10 16:25:12 2025step 22600, will finish Tue Jun 10 16:25:13 2025step 22700, will finish Tue Jun 10 16:25:13 2025step 22800, will finish Tue Jun 10 16:25:13 2025step 22900, will finish Tue Jun 10 16:25:12 2025step 23000, will finish Tue Jun 10 16:25:14 2025step 23100, will finish Tue Jun 10 16:25:14 2025step 23200, will finish Tue Jun 10 16:25:13 2025step 23300, will finish Tue Jun 10 16:25:13 2025step 23400, will finish Tue Jun 10 16:25:12 2025step 23500, will finish Tue Jun 10 16:25:14 2025step 23600, will finish Tue Jun 10 16:25:13 2025step 23700, will finish Tue Jun 10 16:25:13 2025step 23800, will finish Tue Jun 10 16:25:12 2025step 23900, will finish Tue Jun 10 16:25:14 2025step 24000, will finish Tue Jun 10 16:25:14 2025step 24100, will finish Tue Jun 10 16:25:13 2025step 24200, will finish Tue Jun 10 16:25:13 2025step 24300, will finish Tue Jun 10 16:25:13 2025step 24400, will finish Tue Jun 10 16:25:14 2025step 24500, will finish Tue Jun 10 16:25:14 2025step 24600, will finish Tue Jun 10 16:25:14 2025step 24700, will finish Tue Jun 10 16:25:13 2025step 24800, will finish Tue Jun 10 16:25:15 2025step 24900, will finish Tue Jun 10 16:25:15 2025step 25000, will finish Tue Jun 10 16:25:14 2025step 25100, will finish Tue Jun 10 16:25:14 2025step 25200, will finish Tue Jun 10 16:25:14 2025step 25300, will finish Tue Jun 10 16:25:15 2025step 25400, will finish Tue Jun 10 16:25:15 2025step 25500, will finish Tue Jun 10 16:25:15 2025step 25600, will finish Tue Jun 10 16:25:14 2025step 25700, will finish Tue Jun 10 16:25:16 2025step 25800, will finish Tue Jun 10 16:25:15 2025step 25900, will finish Tue Jun 10 16:25:15 2025step 26000, will finish Tue Jun 10 16:25:14 2025step 26100, will finish Tue Jun 10 16:25:14 2025step 26200, will finish Tue Jun 10 16:25:16 2025step 26300, will finish Tue Jun 10 16:25:15 2025step 26400, will finish Tue Jun 10 16:25:15 2025step 26500, will finish Tue Jun 10 16:25:15 2025step 26600, will finish Tue Jun 10 16:25:16 2025step 26700, will finish Tue Jun 10 16:25:16 2025step 26800, will finish Tue Jun 10 16:25:15 2025step 26900, will finish Tue Jun 10 16:25:15 2025step 27000, will finish Tue Jun 10 16:25:14 2025step 27100, will finish Tue Jun 10 16:25:15 2025step 27200, will finish Tue Jun 10 16:25:15 2025step 27300, will finish Tue Jun 10 16:25:14 2025step 27400, will finish Tue Jun 10 16:25:14 2025step 27500, will finish Tue Jun 10 16:25:13 2025step 27600, will finish Tue Jun 10 16:25:15 2025step 27700, will finish Tue Jun 10 16:25:14 2025step 27800, will finish Tue Jun 10 16:25:14 2025step 27900, will finish Tue Jun 10 16:25:14 2025step 28000, will finish Tue Jun 10 16:25:15 2025step 28100, will finish Tue Jun 10 16:25:15 2025step 28200, will finish Tue Jun 10 16:25:15 2025step 28300, will finish Tue Jun 10 16:25:14 2025step 28400, will finish Tue Jun 10 16:25:14 2025step 28500, will finish Tue Jun 10 16:25:15 2025step 28600, will finish Tue Jun 10 16:25:15 2025step 28700, will finish Tue Jun 10 16:25:14 2025step 28800, will finish Tue Jun 10 16:25:14 2025step 28900, will finish Tue Jun 10 16:25:15 2025step 29000, will finish Tue Jun 10 16:25:15 2025step 29100, will finish Tue Jun 10 16:25:15 2025step 29200, will finish Tue Jun 10 16:25:14 2025step 29300, will finish Tue Jun 10 16:25:14 2025step 29400, will finish Tue Jun 10 16:25:15 2025step 29500, will finish Tue Jun 10 16:25:15 2025step 29600, will finish Tue Jun 10 16:25:15 2025step 29700, will finish Tue Jun 10 16:25:15 2025step 29800, will finish Tue Jun 10 16:25:16 2025step 29900, will finish Tue Jun 10 16:25:15 2025step 30000, will finish Tue Jun 10 16:25:15 2025step 30100, will finish Tue Jun 10 16:25:15 2025step 30200, will finish Tue Jun 10 16:25:15 2025step 30300, will finish Tue Jun 10 16:25:16 2025step 30400, will finish Tue Jun 10 16:25:16 2025step 30500, will finish Tue Jun 10 16:25:15 2025step 30600, will finish Tue Jun 10 16:25:15 2025step 30700, will finish Tue Jun 10 16:25:17 2025step 30800, will finish Tue Jun 10 16:25:16 2025step 30900, will finish Tue Jun 10 16:25:16 2025step 31000, will finish Tue Jun 10 16:25:16 2025step 31100, will finish Tue Jun 10 16:25:15 2025step 31200, will finish Tue Jun 10 16:25:16 2025step 31300, will finish Tue Jun 10 16:25:16 2025step 31400, will finish Tue Jun 10 16:25:16 2025step 31500, will finish Tue Jun 10 16:25:15 2025step 31600, will finish Tue Jun 10 16:25:17 2025step 31700, will finish Tue Jun 10 16:25:16 2025step 31800, will finish Tue Jun 10 16:25:16 2025step 31900, will finish Tue Jun 10 16:25:16 2025step 32000, will finish Tue Jun 10 16:25:16 2025step 32100, will finish Tue Jun 10 16:25:17 2025step 32200, will finish Tue Jun 10 16:25:17 2025step 32300, will finish Tue Jun 10 16:25:16 2025step 32400, will finish Tue Jun 10 16:25:16 2025step 32500, will finish Tue Jun 10 16:25:17 2025step 32600, will finish Tue Jun 10 16:25:17 2025step 32700, will finish Tue Jun 10 16:25:17 2025step 32800, will finish Tue Jun 10 16:25:16 2025step 32900, will finish Tue Jun 10 16:25:16 2025step 33000, will finish Tue Jun 10 16:25:17 2025step 33100, will finish Tue Jun 10 16:25:17 2025step 33200, will finish Tue Jun 10 16:25:17 2025step 33300, will finish Tue Jun 10 16:25:17 2025step 33400, will finish Tue Jun 10 16:25:16 2025step 33500, will finish Tue Jun 10 16:25:17 2025step 33600, will finish Tue Jun 10 16:25:17 2025step 33700, will finish Tue Jun 10 16:25:17 2025step 33800, will finish Tue Jun 10 16:25:16 2025step 33900, will finish Tue Jun 10 16:25:18 2025step 34000, will finish Tue Jun 10 16:25:18 2025step 34100, will finish Tue Jun 10 16:25:18 2025step 34200, will finish Tue Jun 10 16:25:18 2025step 34300, will finish Tue Jun 10 16:25:17 2025step 34400, will finish Tue Jun 10 16:25:18 2025step 34500, will finish Tue Jun 10 16:25:18 2025step 34600, will finish Tue Jun 10 16:25:18 2025step 34700, will finish Tue Jun 10 16:25:17 2025step 34800, will finish Tue Jun 10 16:25:18 2025step 34900, will finish Tue Jun 10 16:25:18 2025step 35000, will finish Tue Jun 10 16:25:18 2025step 35100, will finish Tue Jun 10 16:25:18 2025step 35200, will finish Tue Jun 10 16:25:18 2025step 35300, will finish Tue Jun 10 16:25:19 2025step 35400, will finish Tue Jun 10 16:25:19 2025step 35500, will finish Tue Jun 10 16:25:19 2025step 35600, will finish Tue Jun 10 16:25:18 2025step 35700, will finish Tue Jun 10 16:25:20 2025step 35800, will finish Tue Jun 10 16:25:19 2025step 35900, will finish Tue Jun 10 16:25:19 2025step 36000, will finish Tue Jun 10 16:25:19 2025step 36100, will finish Tue Jun 10 16:25:18 2025step 36200, will finish Tue Jun 10 16:25:19 2025step 36300, will finish Tue Jun 10 16:25:19 2025step 36400, will finish Tue Jun 10 16:25:19 2025step 36500, will finish Tue Jun 10 16:25:18 2025step 36600, will finish Tue Jun 10 16:25:19 2025step 36700, will finish Tue Jun 10 16:25:19 2025step 36800, will finish Tue Jun 10 16:25:19 2025step 36900, will finish Tue Jun 10 16:25:19 2025step 37000, will finish Tue Jun 10 16:25:18 2025step 37100, will finish Tue Jun 10 16:25:19 2025step 37200, will finish Tue Jun 10 16:25:19 2025step 37300, will finish Tue Jun 10 16:25:19 2025step 37400, will finish Tue Jun 10 16:25:18 2025step 37500, will finish Tue Jun 10 16:25:19 2025step 37600, will finish Tue Jun 10 16:25:19 2025step 37700, will finish Tue Jun 10 16:25:19 2025step 37800, will finish Tue Jun 10 16:25:18 2025step 37900, will finish Tue Jun 10 16:25:18 2025step 38000, will finish Tue Jun 10 16:25:19 2025step 38100, will finish Tue Jun 10 16:25:19 2025step 38200, will finish Tue Jun 10 16:25:19 2025step 38300, will finish Tue Jun 10 16:25:18 2025step 38400, will finish Tue Jun 10 16:25:18 2025step 38500, will finish Tue Jun 10 16:25:19 2025step 38600, will finish Tue Jun 10 16:25:19 2025step 38700, will finish Tue Jun 10 16:25:18 2025step 38800, will finish Tue Jun 10 16:25:18 2025step 38900, will finish Tue Jun 10 16:25:19 2025step 39000, will finish Tue Jun 10 16:25:19 2025step 39100, will finish Tue Jun 10 16:25:19 2025step 39200, will finish Tue Jun 10 16:25:18 2025step 39300, will finish Tue Jun 10 16:25:18 2025step 39400, will finish Tue Jun 10 16:25:19 2025step 39500, will finish Tue Jun 10 16:25:19 2025step 39600, will finish Tue Jun 10 16:25:19 2025step 39700, will finish Tue Jun 10 16:25:19 2025step 39800, will finish Tue Jun 10 16:25:19 2025step 39900, will finish Tue Jun 10 16:25:19 2025step 40000, will finish Tue Jun 10 16:25:19 2025step 40100, will finish Tue Jun 10 16:25:19 2025step 40200, will finish Tue Jun 10 16:25:19 2025step 40300, will finish Tue Jun 10 16:25:20 2025step 40400, will finish Tue Jun 10 16:25:20 2025step 40500, will finish Tue Jun 10 16:25:19 2025step 40600, will finish Tue Jun 10 16:25:19 2025step 40700, will finish Tue Jun 10 16:25:20 2025step 40800, will finish Tue Jun 10 16:25:20 2025step 40900, will finish Tue Jun 10 16:25:20 2025step 41000, will finish Tue Jun 10 16:25:19 2025step 41100, will finish Tue Jun 10 16:25:19 2025step 41200, will finish Tue Jun 10 16:25:20 2025step 41300, will finish Tue Jun 10 16:25:19 2025step 41400, will finish Tue Jun 10 16:25:19 2025step 41500, will finish Tue Jun 10 16:25:19 2025step 41600, will finish Tue Jun 10 16:25:20 2025step 41700, will finish Tue Jun 10 16:25:20 2025step 41800, will finish Tue Jun 10 16:25:20 2025step 41900, will finish Tue Jun 10 16:25:19 2025step 42000, will finish Tue Jun 10 16:25:19 2025step 42100, will finish Tue Jun 10 16:25:20 2025step 42200, will finish Tue Jun 10 16:25:20 2025step 42300, will finish Tue Jun 10 16:25:19 2025step 42400, will finish Tue Jun 10 16:25:19 2025step 42500, will finish Tue Jun 10 16:25:20 2025step 42600, will finish Tue Jun 10 16:25:20 2025step 42700, will finish Tue Jun 10 16:25:20 2025step 42800, will finish Tue Jun 10 16:25:19 2025step 42900, will finish Tue Jun 10 16:25:19 2025step 43000, will finish Tue Jun 10 16:25:20 2025step 43100, will finish Tue Jun 10 16:25:20 2025step 43200, will finish Tue Jun 10 16:25:20 2025step 43300, will finish Tue Jun 10 16:25:20 2025step 43400, will finish Tue Jun 10 16:25:20 2025step 43500, will finish Tue Jun 10 16:25:20 2025step 43600, will finish Tue Jun 10 16:25:20 2025step 43700, will finish Tue Jun 10 16:25:20 2025step 43800, will finish Tue Jun 10 16:25:19 2025
+Step 43832, time 87.664 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000013 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   31.0    0.1010   0.1010      0.1010
+
+Step 43834, time 87.668 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000009, max 0.000108 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   34.9    0.1010   0.1010      0.1010
+
+Step 43842, time 87.684 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000005, max 0.000064 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   31.1    0.1010   0.1010      0.1010
+
+Step 43855, time 87.71 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000011 (between atoms 566 and 567)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   30.4    0.1010   0.1010      0.1010
+
+Step 43856, time 87.712 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000007, max 0.000091 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   31.6    0.1010   0.1010      0.1010
+
+Step 43857, time 87.714 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000012, max 0.000176 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   31.2    0.1010   0.1010      0.1010
+
+Step 43858, time 87.716 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000055 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   34.1    0.1010   0.1010      0.1010
+
+Step 43859, time 87.718 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000008 (between atoms 54 and 55)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     54     55   31.3    0.1010   0.1010      0.1010
+step 43900, will finish Tue Jun 10 16:25:20 2025step 44000, will finish Tue Jun 10 16:25:20 2025
+Step 44066, time 88.132 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000023 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   30.5    0.1010   0.1010      0.1010
+
+Step 44067, time 88.134 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000019 (between atoms 54 and 56)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   30.4    0.1010   0.1010      0.1010
+
+Step 44076, time 88.152 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000005, max 0.000059 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   32.4    0.1010   0.1010      0.1010
+
+Step 44077, time 88.154 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000045 (between atoms 544 and 545)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   33.8    0.1010   0.1010      0.1010
+
+Step 44078, time 88.156 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000045 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   32.6    0.1010   0.1010      0.1010
+
+Step 44079, time 88.158 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000015, max 0.000193 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   30.4    0.1010   0.1010      0.1010
+
+Step 44084, time 88.168 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000023, max 0.000329 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   37.0    0.1010   0.1010      0.1010
+
+Step 44085, time 88.17 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000013, max 0.000186 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   42.0    0.1010   0.1010      0.1010
+
+Step 44086, time 88.172 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000032 (between atoms 21 and 22)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   42.4    0.1010   0.1010      0.1010
+
+Step 44087, time 88.174 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000014, max 0.000178 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   42.4    0.1010   0.1010      0.1010
+
+Step 44088, time 88.176 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000032, max 0.000418 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   40.2    0.1010   0.1010      0.1010
+
+Step 44089, time 88.178 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000029, max 0.000426 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   39.3    0.1010   0.1010      0.1010
+
+Step 44090, time 88.18 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000019, max 0.000284 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   36.2    0.1010   0.1010      0.1010
+
+Step 44091, time 88.182 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000007, max 0.000094 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   30.7    0.1010   0.1010      0.1010
+
+Step 44092, time 88.184 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000009, max 0.000121 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   31.4    0.1010   0.1010      0.1010
+
+Step 44093, time 88.186 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000019, max 0.000256 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   33.6    0.1010   0.1010      0.1010
+
+Step 44094, time 88.188 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000069 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   30.4    0.1010   0.1010      0.1010
+
+Step 44095, time 88.19 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000011, max 0.000155 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   30.4    0.1010   0.1010      0.1010
+
+Step 44099, time 88.198 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000005, max 0.000070 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   34.0    0.1010   0.1010      0.1010
+
+Step 44100, time 88.2 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000025, max 0.000352 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   39.6    0.1010   0.1010      0.1010
+step 44100, will finish Tue Jun 10 16:25:20 2025
+Step 44101, time 88.202 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000009, max 0.000100 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   41.4    0.1010   0.1010      0.1010
+
+Step 44102, time 88.204 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000027, max 0.000399 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   44.0    0.1010   0.1010      0.1010
+
+Step 44103, time 88.206 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000035, max 0.000524 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   36.4    0.1010   0.1009      0.1010
+
+Step 44104, time 88.208 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000026, max 0.000369 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   30.0    0.1009   0.1010      0.1010
+
+Step 44108, time 88.216 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000022 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   32.4    0.1010   0.1010      0.1010
+
+Step 44109, time 88.218 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000020 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   35.5    0.1010   0.1010      0.1010
+
+Step 44110, time 88.22 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000004 (between atoms 529 and 530)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   36.6    0.1010   0.1010      0.1010
+
+Step 44111, time 88.222 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000036 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   34.9    0.1010   0.1010      0.1010
+
+Step 44112, time 88.224 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000032, max 0.000373 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   36.1    0.1010   0.1010      0.1010
+
+Step 44113, time 88.226 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000015, max 0.000196 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   33.3    0.1010   0.1010      0.1010
+
+Step 44114, time 88.228 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000011, max 0.000159 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   31.4    0.1010   0.1010      0.1010
+
+Step 44126, time 88.252 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000017 (between atoms 21 and 23)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   30.9    0.1010   0.1010      0.1010
+
+Step 44127, time 88.254 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000036 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   32.9    0.1010   0.1010      0.1010
+
+Step 44128, time 88.256 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000005 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   31.4    0.1010   0.1010      0.1010
+
+Step 44137, time 88.274 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000008, max 0.000112 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   31.1    0.1010   0.1010      0.1010
+step 44200, will finish Tue Jun 10 16:25:19 2025step 44300, will finish Tue Jun 10 16:25:20 2025step 44400, will finish Tue Jun 10 16:25:20 2025step 44500, will finish Tue Jun 10 16:25:20 2025step 44600, will finish Tue Jun 10 16:25:19 2025
+Step 44617, time 89.234 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000003 (between atoms 558 and 559)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    550    551   30.6    0.1090   0.1090      0.1090
+
+Step 44618, time 89.236 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000002 (between atoms 357 and 358)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    550    551   30.0    0.1090   0.1090      0.1090
+
+Step 44630, time 89.26 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000005 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    550    551   32.4    0.1090   0.1090      0.1090
+step 44700, will finish Tue Jun 10 16:25:19 2025step 44800, will finish Tue Jun 10 16:25:20 2025step 44900, will finish Tue Jun 10 16:25:20 2025step 45000, will finish Tue Jun 10 16:25:20 2025step 45100, will finish Tue Jun 10 16:25:19 2025
+Step 45178, time 90.356 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000025 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   31.8    0.1010   0.1010      0.1010
+step 45200, will finish Tue Jun 10 16:25:20 2025step 45300, will finish Tue Jun 10 16:25:20 2025step 45400, will finish Tue Jun 10 16:25:20 2025step 45500, will finish Tue Jun 10 16:25:20 2025step 45600, will finish Tue Jun 10 16:25:20 2025step 45700, will finish Tue Jun 10 16:25:20 2025step 45800, will finish Tue Jun 10 16:25:20 2025step 45900, will finish Tue Jun 10 16:25:20 2025step 46000, will finish Tue Jun 10 16:25:20 2025step 46100, will finish Tue Jun 10 16:25:20 2025step 46200, will finish Tue Jun 10 16:25:21 2025step 46300, will finish Tue Jun 10 16:25:20 2025step 46400, will finish Tue Jun 10 16:25:20 2025step 46500, will finish Tue Jun 10 16:25:20 2025step 46600, will finish Tue Jun 10 16:25:21 2025step 46700, will finish Tue Jun 10 16:25:21 2025step 46800, will finish Tue Jun 10 16:25:20 2025step 46900, will finish Tue Jun 10 16:25:20 2025step 47000, will finish Tue Jun 10 16:25:20 2025step 47100, will finish Tue Jun 10 16:25:21 2025step 47200, will finish Tue Jun 10 16:25:21 2025step 47300, will finish Tue Jun 10 16:25:20 2025step 47400, will finish Tue Jun 10 16:25:20 2025step 47500, will finish Tue Jun 10 16:25:21 2025step 47600, will finish Tue Jun 10 16:25:21 2025step 47700, will finish Tue Jun 10 16:25:21 2025step 47800, will finish Tue Jun 10 16:25:21 2025step 47900, will finish Tue Jun 10 16:25:20 2025
+Step 47973, time 95.946 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000012, max 0.000184 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   31.1    0.1010   0.1010      0.1010
+
+Step 47974, time 95.948 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000021, max 0.000294 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   30.6    0.1010   0.1010      0.1010
+step 48000, will finish Tue Jun 10 16:25:21 2025step 48100, will finish Tue Jun 10 16:25:21 2025step 48200, will finish Tue Jun 10 16:25:21 2025
+Step 48205, time 96.41 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000016 (between atoms 54 and 56)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    202    203   33.4    0.1090   0.1090      0.1090
+
+Step 48211, time 96.422 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000006 (between atoms 21 and 23)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    202    203   31.7    0.1090   0.1090      0.1090
+step 48300, will finish Tue Jun 10 16:25:21 2025step 48400, will finish Tue Jun 10 16:25:22 2025step 48500, will finish Tue Jun 10 16:25:22 2025step 48600, will finish Tue Jun 10 16:25:22 2025step 48700, will finish Tue Jun 10 16:25:22 2025step 48800, will finish Tue Jun 10 16:25:21 2025step 48900, will finish Tue Jun 10 16:25:22 2025step 49000, will finish Tue Jun 10 16:25:22 2025step 49100, will finish Tue Jun 10 16:25:22 2025step 49200, will finish Tue Jun 10 16:25:22 2025
+Step 49262, time 98.524 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000038, max 0.000506 (between atoms 87 and 88)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     88   31.5    0.1010   0.1011      0.1010
+
+Step 49271, time 98.542 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000085 (between atoms 87 and 89)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+     87     89   31.9    0.1010   0.1010      0.1010
+step 49300, will finish Tue Jun 10 16:25:22 2025step 49400, will finish Tue Jun 10 16:25:22 2025step 49500, will finish Tue Jun 10 16:25:22 2025step 49600, will finish Tue Jun 10 16:25:22 2025step 49700, will finish Tue Jun 10 16:25:22 2025step 49800, will finish Tue Jun 10 16:25:23 2025step 49900, will finish Tue Jun 10 16:25:22 2025step 50000, will finish Tue Jun 10 16:25:22 2025step 50100, will finish Tue Jun 10 16:25:22 2025step 50200, will finish Tue Jun 10 16:25:23 2025step 50300, will finish Tue Jun 10 16:25:23 2025step 50400, will finish Tue Jun 10 16:25:23 2025step 50500, will finish Tue Jun 10 16:25:23 2025step 50600, will finish Tue Jun 10 16:25:22 2025step 50700, will finish Tue Jun 10 16:25:23 2025step 50800, will finish Tue Jun 10 16:25:23 2025step 50900, will finish Tue Jun 10 16:25:23 2025step 51000, will finish Tue Jun 10 16:25:23 2025step 51100, will finish Tue Jun 10 16:25:23 2025step 51200, will finish Tue Jun 10 16:25:23 2025step 51300, will finish Tue Jun 10 16:25:23 2025step 51400, will finish Tue Jun 10 16:25:23 2025step 51500, will finish Tue Jun 10 16:25:23 2025step 51600, will finish Tue Jun 10 16:25:23 2025step 51700, will finish Tue Jun 10 16:25:23 2025step 51800, will finish Tue Jun 10 16:25:23 2025step 51900, will finish Tue Jun 10 16:25:23 2025step 52000, will finish Tue Jun 10 16:25:24 2025step 52100, will finish Tue Jun 10 16:25:23 2025step 52200, will finish Tue Jun 10 16:25:23 2025
+Step 52300, time 104.6 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000042 (between atoms 566 and 567)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   30.3    0.1010   0.1010      0.1010
+step 52300, will finish Tue Jun 10 16:25:23 2025
+Step 52301, time 104.602 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000092 (between atoms 566 and 567)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    566    567   31.5    0.1090   0.1090      0.1090
+
+Step 52317, time 104.634 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000007 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   33.4    0.1010   0.1010      0.1010
+
+Step 52318, time 104.636 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000037 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   33.4    0.1010   0.1010      0.1010
+
+Step 52326, time 104.652 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000007, max 0.000099 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   30.4    0.1010   0.1010      0.1010
+
+Step 52327, time 104.654 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000010, max 0.000152 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   30.7    0.1010   0.1010      0.1010
+step 52400, will finish Tue Jun 10 16:25:23 2025step 52500, will finish Tue Jun 10 16:25:23 2025step 52600, will finish Tue Jun 10 16:25:23 2025step 52700, will finish Tue Jun 10 16:25:23 2025step 52800, will finish Tue Jun 10 16:25:23 2025
+Step 52820, time 105.64 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000004 (between atoms 21 and 23)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    550    551   30.6    0.1090   0.1090      0.1090
+step 52900, will finish Tue Jun 10 16:25:23 2025step 53000, will finish Tue Jun 10 16:25:23 2025step 53100, will finish Tue Jun 10 16:25:23 2025step 53200, will finish Tue Jun 10 16:25:27 2025step 53300, will finish Tue Jun 10 16:25:27 2025step 53400, will finish Tue Jun 10 16:25:28 2025step 53500, will finish Tue Jun 10 16:25:28 2025step 53600, will finish Tue Jun 10 16:25:28 2025step 53700, will finish Tue Jun 10 16:25:28 2025step 53800, will finish Tue Jun 10 16:25:29 2025step 53900, will finish Tue Jun 10 16:25:29 2025step 54000, will finish Tue Jun 10 16:25:29 2025step 54100, will finish Tue Jun 10 16:25:29 2025step 54200, will finish Tue Jun 10 16:25:31 2025step 54300, will finish Tue Jun 10 16:25:31 2025step 54400, will finish Tue Jun 10 16:25:31 2025step 54500, will finish Tue Jun 10 16:25:31 2025step 54600, will finish Tue Jun 10 16:25:31 2025step 54700, will finish Tue Jun 10 16:25:32 2025step 54800, will finish Tue Jun 10 16:25:32 2025step 54900, will finish Tue Jun 10 16:25:31 2025step 55000, will finish Tue Jun 10 16:25:31 2025step 55100, will finish Tue Jun 10 16:25:32 2025step 55200, will finish Tue Jun 10 16:25:32 2025step 55300, will finish Tue Jun 10 16:25:32 2025step 55400, will finish Tue Jun 10 16:25:32 2025step 55500, will finish Tue Jun 10 16:25:31 2025step 55600, will finish Tue Jun 10 16:25:32 2025step 55700, will finish Tue Jun 10 16:25:32 2025step 55800, will finish Tue Jun 10 16:25:32 2025step 55900, will finish Tue Jun 10 16:25:32 2025step 56000, will finish Tue Jun 10 16:25:32 2025step 56100, will finish Tue Jun 10 16:25:32 2025step 56200, will finish Tue Jun 10 16:25:32 2025step 56300, will finish Tue Jun 10 16:25:32 2025step 56400, will finish Tue Jun 10 16:25:31 2025step 56500, will finish Tue Jun 10 16:25:32 2025step 56600, will finish Tue Jun 10 16:25:32 2025step 56700, will finish Tue Jun 10 16:25:32 2025step 56800, will finish Tue Jun 10 16:25:32 2025step 56900, will finish Tue Jun 10 16:25:31 2025step 57000, will finish Tue Jun 10 16:25:32 2025step 57100, will finish Tue Jun 10 16:25:32 2025step 57200, will finish Tue Jun 10 16:25:32 2025step 57300, will finish Tue Jun 10 16:25:31 2025step 57400, will finish Tue Jun 10 16:25:32 2025step 57500, will finish Tue Jun 10 16:25:32 2025step 57600, will finish Tue Jun 10 16:25:32 2025step 57700, will finish Tue Jun 10 16:25:31 2025step 57800, will finish Tue Jun 10 16:25:31 2025step 57900, will finish Tue Jun 10 16:25:32 2025step 58000, will finish Tue Jun 10 16:25:32 2025step 58100, will finish Tue Jun 10 16:25:31 2025step 58200, will finish Tue Jun 10 16:25:31 2025step 58300, will finish Tue Jun 10 16:25:32 2025step 58400, will finish Tue Jun 10 16:25:32 2025step 58500, will finish Tue Jun 10 16:25:32 2025step 58600, will finish Tue Jun 10 16:25:31 2025step 58700, will finish Tue Jun 10 16:25:31 2025step 58800, will finish Tue Jun 10 16:25:32 2025step 58900, will finish Tue Jun 10 16:25:32 2025step 59000, will finish Tue Jun 10 16:25:31 2025step 59100, will finish Tue Jun 10 16:25:31 2025step 59200, will finish Tue Jun 10 16:25:32 2025step 59300, will finish Tue Jun 10 16:25:32 2025step 59400, will finish Tue Jun 10 16:25:32 2025step 59500, will finish Tue Jun 10 16:25:31 2025step 59600, will finish Tue Jun 10 16:25:31 2025step 59700, will finish Tue Jun 10 16:25:32 2025step 59800, will finish Tue Jun 10 16:25:31 2025step 59900, will finish Tue Jun 10 16:25:31 2025step 60000, will finish Tue Jun 10 16:25:31 2025step 60100, will finish Tue Jun 10 16:25:32 2025step 60200, will finish Tue Jun 10 16:25:32 2025
+Step 60218, time 120.436 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000032 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   31.4    0.1010   0.1010      0.1010
+
+Step 60227, time 120.454 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000092 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   30.1    0.1010   0.1010      0.1010
+
+Step 60233, time 120.466 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000027, max 0.000355 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   32.3    0.1010   0.1010      0.1010
+
+Step 60234, time 120.468 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000082 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   30.7    0.1010   0.1010      0.1010
+
+Step 60242, time 120.484 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000016 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   33.5    0.1010   0.1010      0.1010
+
+Step 60243, time 120.486 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000005, max 0.000070 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   41.2    0.1010   0.1010      0.1010
+
+Step 60244, time 120.488 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000052 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   33.1    0.1010   0.1010      0.1010
+
+Step 60249, time 120.498 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000011, max 0.000147 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   34.4    0.1010   0.1010      0.1010
+
+Step 60250, time 120.5 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000006, max 0.000086 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   36.3    0.1010   0.1010      0.1010
+
+Step 60251, time 120.502 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000051 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   37.0    0.1010   0.1010      0.1010
+
+Step 60252, time 120.504 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000016, max 0.000203 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   32.5    0.1010   0.1010      0.1010
+
+Step 60253, time 120.506 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000024, max 0.000271 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   31.0    0.1010   0.1010      0.1010
+
+Step 60255, time 120.51 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000056, max 0.000623 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   35.1    0.1010   0.1011      0.1010
+
+Step 60256, time 120.512 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000051, max 0.000617 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   33.8    0.1011   0.1011      0.1010
+
+Step 60257, time 120.514 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000015 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   33.0    0.1011   0.1010      0.1010
+
+Step 60258, time 120.516 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000021, max 0.000260 (between atoms 214 and 216)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    216   32.6    0.1010   0.1010      0.1010
+
+Step 60261, time 120.522 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000001, max 0.000006 (between atoms 604 and 606)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   33.0    0.1010   0.1010      0.1010
+
+Step 60263, time 120.526 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000045 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   37.4    0.1010   0.1010      0.1010
+
+Step 60264, time 120.528 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000004, max 0.000051 (between atoms 214 and 215)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    214    215   33.8    0.1010   0.1010      0.1010
+step 60300, will finish Tue Jun 10 16:25:32 2025step 60400, will finish Tue Jun 10 16:25:32 2025step 60500, will finish Tue Jun 10 16:25:32 2025step 60600, will finish Tue Jun 10 16:25:32 2025step 60700, will finish Tue Jun 10 16:25:32 2025
+Step 60761, time 121.522 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000002, max 0.000028 (between atoms 604 and 605)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    604    605   33.2    0.1090   0.1090      0.1090
+    607    608   42.0    0.1090   0.1090      0.1090
+
+Step 60762, time 121.524 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000035 (between atoms 604 and 605)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    604    605   30.0    0.1090   0.1090      0.1090
+
+Step 60763, time 121.526 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.056983, max 0.856638 (between atoms 607 and 608)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    607    608  122.6    0.1090   0.2024      0.1090
+Wrote pdb files with previous and current coordinates
+
+Step 60764, time 121.528 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.000003, max 0.000043 (between atoms 604 and 606)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    607    608   52.8    0.2024   0.1090      0.1090
+
+Step 60765, time 121.53 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.040400, max 0.607345 (between atoms 607 and 608)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    604    605   30.5    0.1090   0.1090      0.1090
+    607    608  119.5    0.1090   0.1752      0.1090
+Wrote pdb files with previous and current coordinates
+
+Step 60766, time 121.532 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 0.084876, max 1.223421 (between atoms 607 and 608)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    607    608  116.7    0.1752   0.2424      0.1090
+    624    625  108.3    0.1090   0.1485      0.1090
+Wrote pdb files with previous and current coordinates
+
+Step 60767, time 121.534 (ps)  LINCS WARNING
+relative constraint deviation after LINCS:
+rms 76.119102, max 1143.345703 (between atoms 607 and 608)
+bonds that rotated more than 30 degrees:
+ atom 1 atom 2  angle  previous, current, constraint length
+    607    608   95.7    0.2424 124.7337      0.1090
+    624    625  154.4    0.1485   2.9024      0.1090
+    626    627   57.4    0.1090   0.0986      0.1090
+    626    628   35.7    0.1090   4.4340      0.1090
+
+step 60767: One or more water molecules can not be settled.
+Check for bad contacts and/or reduce the timestep if appropriate.
+Wrote pdb files with previous and current coordinates
+
+WARNING: Listed nonbonded interaction between particles 603 and 608
+at distance 124.810 which is larger than the table limit 1.916 nm.
+
+This is likely either a 1,4 interaction, or a listed interaction inside
+a smaller molecule you are decoupling during a free energy calculation.
+Since interactions at distances beyond the table cannot be computed,
+they are skipped until they are inside the table limit again. You will
+only see this message once, even if it occurs for several interactions.
+
+IMPORTANT: This should not happen in a stable simulation, so there is
+probably something wrong with your system. Only change the table-extension
+distance in the mdp file if you are really sure that is the reason.
+
+
+Warning: Only triclinic boxes with the first vector parallel to the x-axis and the second vector in the xy-plane are supported.
+         Box (3x3):
+            Box[    0]={        -nan,  0.00000e+00,  0.00000e+00}
+            Box[    1]={        -nan,         -nan,         -nan}
+            Box[    2]={        -nan,         -nan,         -nan}
+         Can not fix pbc.
+
