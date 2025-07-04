@@ -1,0 +1,6 @@
+nhc_spc:         Cv      =    75.4581 J/(mol K)
+nhc_tip3p:       Cv      =    71.6894 J/(mol K
+nve_spc:         Cv      =    4.41484 J/(mol K)
+nve_tip3p:       Cv      =  0.0812354 J/(mol K)
+berendsen_spc:   Cv      =     18.348 J/(mol K)
+berendsen_tip3p: Cv      =    17.9542 J/(mol K)
